@@ -1,6 +1,6 @@
 # Dilemma Keyboard 4x6
 
-![Dilemma](https://www.etsy.com/listing/1886969355/dilemma-max-split-keyboard-hotswap-diy)
+![Dilemma](https://imgs.search.brave.com/Aq5cA8MNwkgfl9FUhDTKWggcF-o1a0IfJQUyx_I66_w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzU3OTExNzEzL3Iv/aWwvYzIxODdlLzcx/MTk1MzU5MDgvaWxf/Nzk0eE4uNzExOTUz/NTkwOF83czFiLmpw/Zw)
 
 Make example for this keyboard (after setting up your build environment):
 
